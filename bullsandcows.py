@@ -38,6 +38,7 @@ class primapagina(ctk.CTk):
             text="Reguli: Ghicește numărul secret format din 4 cifre.\n"
              "🐂 - Bulls: cifre corecte pe poziția corectă.\n"
              "🐄 - Cows: cifre corecte pe poziția greșită.\n"
+             "❌ - None: cifre care nu sunt in numar"
              "Jocul are trei nivele de dificultate:\n"
              "Easy - ai incercari infinite de ghicit\n"
              "Medium - ai 10 incercari de ghicit\n"
